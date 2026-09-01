@@ -95,13 +95,13 @@ Informe qual atributo será utilizado como chave primária da tabela.
 
 **Atributo escolhido:**
 
-`________________________________________`
+`alunos________________________________________`
 
 ### Justificativa
 
 Explique por que esse atributo é adequado para identificar cada registro de forma única.
 
-> Escreva aqui.
+> Escreva aqui. financeiro e controle dos alunos na instituição e tambem ter chave secundaria
 
 ---
 
