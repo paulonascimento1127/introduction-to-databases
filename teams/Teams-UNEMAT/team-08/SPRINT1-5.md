@@ -29,7 +29,7 @@ O objetivo de hoje é definir claramente:
 
 Preencha com os integrantes da equipe.
 
-- Nome completo:
+- Nome completo: paulo cesar nascimento
 - Nome completo:
 - Nome completo:
 - Nome completo:
@@ -42,10 +42,10 @@ Escreva uma breve descrição explicando o papel do **Módulo de Alunos** dentro
 
 A descrição deve responder:
 
-1. O que este módulo representa?
-2. Quais informações principais serão armazenadas?
-3. Para que essas informações serão utilizadas?
-4. Com quais outros módulos ele poderá se relacionar?
+1. O que este módulo representa? financeiro
+2. Quais informações principais serão armazenadas? se for bolsista ou paga parcela
+3. Para que essas informações serão utilizadas? banco de dados de alunos
+4. Com quais outros módulos ele poderá se relacionar? matricula 
 
 ### Exemplo de nível esperado
 
@@ -53,9 +53,9 @@ A descrição deve responder:
 
 **Não copie o exemplo literalmente. Produza a descrição da própria equipe.**
 
-### Descrição da equipe
+### Descrição da equipe alunos
 
-> Escreva aqui.
+> Escreva aqui. fazer um controle da parte financeiro da instituição e verificar quem bolsista e quem pagou 
 
 ---
 
@@ -155,7 +155,7 @@ Exemplos de perguntas que podem ajudar:
 
 ### Regras da equipe
 
-1. 
+1. criar login para acesso
 2. 
 3. 
 
